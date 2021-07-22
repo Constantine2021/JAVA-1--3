@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab2","c":"Lab2A","l":"doTheTask()"},{"p":"Lab2","c":"Lab2C","l":"doTheTask()"},{"p":"Lab2","c":"Lab2A","l":"Lab2A()","url":"%3Cinit%3E()"},{"p":"Lab2","c":"Lab2C","l":"Lab2C()","url":"%3Cinit%3E()"}]
